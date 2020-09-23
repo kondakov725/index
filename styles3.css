@@ -2,7 +2,7 @@ h2 {
 	padding-top:20px;
 	font-family:Trebuchet MS;
 	font-size:60;
-	color:red;
+	color:blue;
 }
 
 h3 {
@@ -21,9 +21,9 @@ ul {
 }
 
 li {
-	color:white;
+	color:blue;
 }
 
 a {
-	color:red;
+	color:blue;
 }
